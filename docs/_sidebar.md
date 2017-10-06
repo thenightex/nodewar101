@@ -17,7 +17,7 @@
 	- [Villen](buffs/villa.md)
 	- [Möbel](buffs/interior.md)
 	
-- [**Checkliste**](checklist.md)
+- Checkliste
 	- [Node War](checklist/node_war.md)
 	
 - [Credits](credits.md)
