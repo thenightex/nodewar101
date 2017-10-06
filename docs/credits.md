@@ -14,4 +14,5 @@ These people write, construct and handle most of the documentation.
 
 ## Other contributors
 
-?> *TODO*
+- [invenglobal](https://www.invenglobal.com)
+	- one of the main information sources
