@@ -7,6 +7,7 @@
 - Ausrüstung
 	- [Essenziell](supplies/essentials.md)
 	- [Kristalle](supplies/crystals.md)
+	- [Alchemiestein](supplies/alchemystone.md)
 	- [Pferd](supplies/horse.md)
 	- [Fort](supplies/fort.md)
 	- [Sonstiges](supplies/etc.md)
@@ -16,6 +17,7 @@
 	- [Elixiere](buffs/elixiers.md)
 	- [Villen](buffs/villas.md)
 	- [Möbel](buffs/interior.md)
+	- [Extras](buffs/extras.md)
 	
 - Checkliste
 	- [Node War](checklist/node_war.md)

@@ -7,3 +7,7 @@
 - Simple and lightweight
 
 [( ͡° ͜ʖ ͡°)](general)
+
+
+<!-- background image -->
+![](_media/bg.jpg)

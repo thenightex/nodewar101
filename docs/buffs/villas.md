@@ -1,16 +1,50 @@
 # Villen Buffs
 
-<b>Kosten</b> 
+<b>Kosten</b>
 * 5.000.000 (5m) je Villa für 7 Tage
-* 100.000 (100k) je Buff für 90 Minuten 
+* 100.000 (100k) je Buff für 90 Minuten
 * 300.000 (300k) je Buff für 180 Minuten
 
-<h2>Kunid's Villa</h2>
-<h4 style="color: #607D8B; padding: 0;margin: 0 0 0.25rem 0;"></h4><p class="villa-buffs" style="padding-left: 20px; margin: 0;"><img src="http://www.somethinglovely.net/bdo/icons/43704.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Combat Technique<span style="color: #CCC"><br></span><i style="color: #546E7A">Skill EXP Gain +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43707.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Ancient Grindstone<span style="color: #CCC"><br></span><i style="color: #546E7A">All AP +10</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43712.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Skills of Knights<span style="color: #CCC"><br></span><i style="color: #546E7A">Grapple Resistance Chance +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43715.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Wits of Outlaw<span style="color: #CCC"><br></span><i style="color: #546E7A">Ignore Knockdown/Bound Resistance Chance +5%</i></span><br></p>
-<h2>Atosa's Villa</h2>
-<h4 style="color: #607D8B; padding: 0;margin: 0 0 0.25rem 0;"></h4><p class="villa-buffs" style="padding-left: 20px; margin: 0;"><img src="http://www.somethinglovely.net/bdo/icons/43703.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Mercenary's Experience<span style="color: #CCC"><br></span><i style="color: #546E7A">Combat EXP Gain +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43709.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Ancient Invigorant<span style="color: #CCC"><br></span><i style="color: #546E7A">Max HP +200</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43711.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Wisdom of Knights<span style="color: #CCC"><br></span><i style="color: #546E7A">Knockdown/Bound Resistance Chance +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43714.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Will of Outlaw<span style="color: #CCC"><br></span><i style="color: #546E7A">Ignore Stun/Stiffness/Freezing Resistance Chance +5%</i></span><br></p>
-<h2>Kiyak's Villa</h2>
-<h4 style="color: #607D8B; padding: 0;margin: 0 0 0.25rem 0;"></h4><p class="villa-buffs" style="padding-left: 20px; margin: 0;"><img src="http://www.somethinglovely.net/bdo/icons/43705.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Wisdom of Life<span style="color: #CCC"><br></span><i style="color: #546E7A">Life EXP Gain +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43708.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Ancient Hardener<span style="color: #CCC"><br></span><i style="color: #546E7A">All DP +10</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43713.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Experience of Knights<span style="color: #CCC"><br></span><i style="color: #546E7A">Knockback/Floating Resistance Chance +10%</i></span><br><img src="http://www.somethinglovely.net/bdo/icons/43716.png" style="width:16px; float:left; margin: 0 0 0 -20px;"> <span style="display:inline-block;padding-bottom:2px;">Skills of Outlaw<span style="color: #CCC"><br></span><i style="color: #546E7A">Ignore Grapple Resistance Chance +5%</i></span><br></p>
+## Kunid's Villa
+
+![](http://www.somethinglovely.net/bdo/icons/43704.png) Combat Technique **Skill EXP Gain +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43707.png) Ancient Grindstone **All AP +10**
+
+![](http://www.somethinglovely.net/bdo/icons/43712.png) Skills of Knights **Grapple Resistance Chance +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43715.png) Wits of Outlaw **Ignore Knockdown/Bound Resistance Chance +5%**
+
+## Atosa's Villa
+
+![](http://www.somethinglovely.net/bdo/icons/43703.png) Mercenary's Experience **Combat EXP Gain +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43709.png) Ancient Invigorant **Max HP +200**
+
+![](http://www.somethinglovely.net/bdo/icons/43711.png) Wisdom of Knights **Knockdown/Bound Resistance Chance +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43714.png) Will of Outlaw **Ignore Stun/Stiffness/Freezing Resistance Chance +5%**
+
+## Kiyak's Villa
+
+![](http://www.somethinglovely.net/bdo/icons/43705.png) Wisdom of Life **Life EXP Gain +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43708.png) Ancient Hardener **All DP +10**
+
+![](http://www.somethinglovely.net/bdo/icons/43713.png) Experience of Knights **Knockback/Floating Resistance Chance +10%**
+
+![](http://www.somethinglovely.net/bdo/icons/43716.png) Skills of Outlaw **Ignore Grapple Resistance Chance +5%**
 
 <h2>Route</h2>
 ![alt text](./_media/buffs/villen.jpeg)
+
+
+
+?> *TODO*
+
+exm:
+-Alsabi's Villa: +10 AP, Ignore Knockdown Resistance
+-Kiyak's Villa: +10 DP, Optional: Knockback Resistance or Ignore Grapple
+-Dudora's Villa: +200 HP, Ignore Stun Resistance
+
+https://static.invenglobal.com/upload/image/2017/05/25/r1495775893705763.png
