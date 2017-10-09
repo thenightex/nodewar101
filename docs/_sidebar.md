@@ -1,5 +1,4 @@
 - [~~**Allgemein**~~](general.md)
-	- [~~Open World PvP~~](general/pvp.md)
 	- [~~Node War~~](general/node_war.md)
 	- [~~GvG~~](general/gvg.md)
 	- [~~Red Battlefield~~](general/red_battlefield.md)
@@ -22,6 +21,6 @@
 - Checkliste
 	- [Node War](checklist/node_war.md)
 	
-- [Credits](credits.md)
+- [**Credits**](credits.md)
 
 - [~~Changelog~~](changelog.md)

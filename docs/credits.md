@@ -16,3 +16,5 @@ These people write, construct and handle most of the documentation.
 
 - [invenglobal](https://www.invenglobal.com)
 	- one of the main information sources
+- Whole's BlackRose Buff Compendium
+- [Black Desert Subreddit](https://www.reddit.com/r/blackdesertonline/)
