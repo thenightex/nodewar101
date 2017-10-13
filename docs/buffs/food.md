@@ -1,14 +1,9 @@
-?> *TODO*
+# Food Buffs
 
-+++pls be aware that not all foods providing direct effects to the combat/survival or similar are mentioned here
-+++adjust your rotation and build to your needs if you feel like something has to be different depending on your playstyle, class, build, gems etc
+Please be aware that **not all** items providing direct effects to the combat, survivability or similar are mentioned here.
+Your ideal rotation highly depends on your class, build, personal preferences and has to be adjusted accordingly.     
 
-Typically you start ur food rotation 1.5 hrs ahead of time, at about 1 hr before you go grab 3 villas full of buffs then you have alch stone, then a party of 5 rotating 3 pots each.
-
-combination of meals differs between 3 and 4 meals. Normal meals are consumed in the case of the combination of 3, but the special is also consumed for the combination of 4
-Personally, I prioritize valencia meal over hamburg, and try to time my food buffs so that valencia/margoria are always up at the expense of the others if I have to. 
-
-# Foodlist
+# Foodlist {docsify-ignore}
 
 |              Name              |                                                           Effect                                                           | Duration |
 |:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------:|
@@ -26,9 +21,28 @@ Personally, I prioritize valencia meal over hamburg, and try to time my food buf
 |         **Arehaza Special**        |                Sun/Heatstroke and hypothermia resistance +10%,  Reduced auto-fishing time, Movement speed +2               |  90 min  |
 | **Margoria Seafood  Extravaganza** |                          Weight limit +50LT, Movement speed +2, Critical hit rate +2, Max HP +100                          |  90 min  |
 |     **King of Jungle Hamburg**     |                                  Nullify all resistance +3%, Critical hit dmg increase	                                  |  110 min |
+|  **Jumbo King of Jungle Hamburg**  |                                  Nullify all resistance +3%, Critical hit dmg increase	                                  |  120 min |
+|   **High-Quality Meat Sandwich**   |                                           Movement Speed +1, Max Stamina +200                                              |  90 min  |
+|    **Steamed Chewy Whale Meat**    |                                         All Damage Reduction +3, All Evasion +8	                                          |  120 min |
 
 
-# Rotations
+# Rotations {docsify-ignore}
+
+Typically you start your food rotation 1.5 hrs ahead of time.
+
+1. 18:30 120min
+2. 19:00 120/110min
+3. 19:30 110min
+4. 20:00 110min
+
+## Beispiele {docsify-ignore}
+
+The combination of meals differs between 3 and 4 meals. 
+Normal meals are consumed in the case of the combination of 3, but the special is also consumed for the combination of 4.
+
+### 3er Rotation
+
+Normal meals are consumed in the case of the combination of 3.
 
 - Serendia Meal / Valencian Meal / King of Jungle Hamburg
 - Serendia Meal / Valencian Meal / Calpheon Meal
@@ -36,7 +50,10 @@ Personally, I prioritize valencia meal over hamburg, and try to time my food buf
 - Margoria Seafood Extravaganza / Valencian Meal / Knight Combat Rations
 - Margoria Seafood Extravaganza / Valencian Meal / King of Jungle Hamburg
 
+### 4er Rotation
 
-- 18:30 Margoria Seafood / 19:00 King of Jungle Hamburg / 19:30 Valencia Meal / 20:00 Knights Combat Rations
-- Knight Combat Rations / Serendia Meal / 1 - 2 Personal Preference (Speed, Defense, Offense)
+Normal and Special Meals are consumed for the combination of 4.
+
+- Margoria Seafood / King of Jungle Hamburg / Valencia Meal / Knights Combat Rations
 - Knight Combat Rations / Margoria Seafood  Extravaganza / Valencian Meal / King of Jungle Hamburg
+- Knight Combat Rations / Serendia Meal / 2 Personal Preference (Speed, Defense, Offense)

@@ -1,6 +1,10 @@
 ?> *TODO*
 
 ######################ELIXIERS##############################
+-> party
+-> elixier groups 
+-> absprechen!
+
 -Sharp Detection (Critical Damage Increase)
 
 -Brutal Carnage (Down Attack damage increase)
@@ -28,8 +32,13 @@
 You'll want to pick 2-3 out of this list, and coordinate with the party you run with to also pick 2-3 different Party Elixirs. That way, you'll get all these buffs for 15 minutes.
 
 ##20 Minute Duration Elixirs: Pick one
+-> solo
+
 -Perfume Of Courage (+20 AP, +200 HP, max attack/cast/movement Speed)
 OR
 -Elixir of Deep Sea (+10 AP, +100 Stamina, +100HP, back/air/down attack damage increase)
 OR 
 Khalks elixier
+
+							
+
