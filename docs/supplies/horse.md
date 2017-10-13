@@ -1,1 +1,5 @@
 ?> *TODO*
+
+-equip
+-stamina
+-charge
