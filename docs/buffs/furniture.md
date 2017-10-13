@@ -1,6 +1,6 @@
-# Furniture
+# Möbel
 
-YOU CAN ONLY RUN ONE FURNITURE BUFF AT A TIME. LASTS FOR ONE HOUR (EXCEPT FOR EVENT ITEMS, WHICH LAST TWO HOURS) 
+Es ist nur 1 "Möbelbuff" zur selben Zeit möglich. Die Standarddauer beträgt 1 Stunde bzw. 2 Stunden für Eventmöbel. 
 
 |             Name             |      Effect     |
 |:----------------------------:|:---------------:|

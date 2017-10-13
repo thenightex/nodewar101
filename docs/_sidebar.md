@@ -15,7 +15,7 @@
 	- [Essen](buffs/food.md)
 	- [Elixiere](buffs/elixiers.md)
 	- [Villen](buffs/villas.md)
-	- [Möbel](buffs/interior.md)
+	- [Möbel](buffs/furniture.md)
 	- [Extras](buffs/extras.md)
 	
 - Checkliste
